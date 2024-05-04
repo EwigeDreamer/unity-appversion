@@ -1,6 +1,6 @@
 {
   "name": "com.ewigedreamer.appversion",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "displayName": "Unity App Version",
   "description": "App Version helper wich provides App version and Build number",
   "unity": "2021.3",
@@ -14,6 +14,13 @@
     "build",
     "number",
     "helper"
+  ],
+  "samples": [
+    {
+      "displayName": "AppVersionHelper usage",
+      "description": "Contains sample of usage of AppVersionHelper",
+      "path": "Samples~/AppVersionSample"
+    }
   ],
   "author": {
     "name": "Pavel Sborshchikov",
