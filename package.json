@@ -2,7 +2,7 @@
   "name": "com.ewigedreamer.appversion",
   "version": "1.0.0",
   "displayName": "Unity App Version",
-  "description": "App Version helper wich provides App version and Build number",
+  "description": "App Version helper which provides App version and Build number",
   "unity": "2021.3",
   "documentationUrl": "",
   "changelogUrl": "",
