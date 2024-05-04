@@ -1,0 +1,23 @@
+{
+  "name": "com.ewigedreamer.appversion",
+  "version": "0.1.0",
+  "displayName": "Unity App Version",
+  "description": "App Version helper wich provides App version and Build number",
+  "unity": "2021.3",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "dependencies": { },
+  "keywords": [
+    "app",
+    "version",
+    "build",
+    "number",
+    "helper"
+  ],
+  "author": {
+    "name": "Pavel Sborshchikov",
+    "email": "ewigedreamer@gmail.com",
+    "url": "https://github.com/EwigeDreamer"
+  }
+}
