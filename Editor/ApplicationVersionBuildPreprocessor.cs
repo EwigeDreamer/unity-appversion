@@ -5,7 +5,7 @@ using UnityEditor.Build;
 using UnityEditor.Build.Reporting;
 using UnityEngine;
 
-namespace EwigeDreamer.AppVersion.Editor
+namespace ED.AppVersion.Editor
 {
     public class ApplicationVersionBuildPreprocessor : IPreprocessBuildWithReport
     {

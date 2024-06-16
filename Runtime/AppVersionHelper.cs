@@ -5,7 +5,7 @@ using UnityEngine;
 using UnityEditor;
 #endif
 
-namespace EwigeDreamer.AppVersion
+namespace ED.AppVersion
 {
     public static class AppVersionHelper
     {

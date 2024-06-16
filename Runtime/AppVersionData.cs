@@ -1,4 +1,4 @@
-namespace EwigeDreamer.AppVersion
+namespace ED.AppVersion
 {
     public struct AppVersionData
     {

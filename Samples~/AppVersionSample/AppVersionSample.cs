@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace EwigeDreamer.AppVersion.Sample
+namespace ED.AppVersion.Sample
 {
     public class AppVersionSample : MonoBehaviour
     {

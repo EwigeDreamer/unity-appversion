@@ -1,7 +1,7 @@
 {
   "name": "com.ewigedreamer.appversion",
-  "version": "1.0.1",
-  "displayName": "Unity App Version",
+  "version": "1.0.2",
+  "displayName": "ED Unity App Version",
   "description": "App Version helper which provides App version and Build number",
   "unity": "2021.3",
   "documentationUrl": "",
