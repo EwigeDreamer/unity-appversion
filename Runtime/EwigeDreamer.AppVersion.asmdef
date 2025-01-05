@@ -1,9 +1,7 @@
 {
-    "name": "ewigedreamer.appversion.sample",
+    "name": "EwigeDreamer.AppVersion",
     "rootNamespace": "ED.AppVersion",
-    "references": [
-        "EwigeDreamer.AppVersion"
-    ],
+    "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,

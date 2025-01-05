@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace ED.AppVersion.Sample
+namespace ED.AppVersion.Samples
 {
     public class AppVersionSample : MonoBehaviour
     {
